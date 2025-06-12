@@ -36,7 +36,7 @@ struct AddActivitySheet: View {
                 } header: {
                     Text("Activity Ratio")
                 } footer: {
-                    Text("This determines how often you should do this activity relative to others.")
+                    Text("This sets how often you should do this activity reative to others.  For example, if you select 1 for activity A and have activity B set to 2, you want to do activity A twice for every time you do activity B.")
                 }
                 
                 Section {
