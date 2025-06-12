@@ -54,7 +54,7 @@ struct ActivitySuggestionView: View {
                         .font(.system(size: 40))
                         .foregroundColor(Color(hex: suggestedActivity.color))
                     
-                    Text("Suggested Activity")
+                    Text("Holla holla holla")
                         .font(.headline)
                         .foregroundColor(.secondary)
                     
